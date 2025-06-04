@@ -13,4 +13,8 @@ Our team focused on integrating [Environmental Impact Quotient (EIQ)](https://ca
 Below is a screenshot of the tool showing an expanded dropdown table:
 ![EIQ Breakdown Table](eiq_table.PNG)
 
+> The dropdown shows grouped chemical inputs for a practice.
+> The **Edit** button opens a modal to adjust chemical parameters.
+> Red indicator notify users when key data for a chemical is missing in their plan.
+
 **Note:** Source code is under NDA and not publicly available.
