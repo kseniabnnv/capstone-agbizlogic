@@ -11,6 +11,6 @@ Our team focused on integrating [Environmental Impact Quotient (EIQ)](https://ca
 
 ## Feature Highlight
 Below is a screenshot of the tool showing an expanded dropdown table:
-![EIQ Breakdown Table](eiq_table.png)
+![EIQ Breakdown Table](eiq_table.PNG)
 
 **Note:** Source code is under NDA and not publicly available.
